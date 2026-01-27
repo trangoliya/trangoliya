@@ -58,7 +58,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **tusharthrangoliya@gmail.com**
+- 📧 Email: **rangoliyatusharth@gmail.com**
 - 💻 GitHub: https://github.com/your-username
 
 ---
